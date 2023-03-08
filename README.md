@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **my personal portfolio page ✅**
 
-- 🌱 I’m currently learning **React Native... 📱**
+- 🌱 I’m currently learning **Next.js... 📱**
 
 - 👨‍💻 All of my projects are available at [https://sproch.netlify.app/](https://sproch.netlify.app/)
 
