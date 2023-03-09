@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sproch.netlify.app/](https://sproch.netlify.app/)
 
-- 💬 Ask me about **JS, React 😍**
+- 💬 Ask me about **HTML, CSS, JS, React 😍**
 
 - 📫 How to reach me **tomek.sproch@gmail.com ✉️**
 
