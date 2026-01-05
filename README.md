@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **my personal portfolio page ✅**
 
-- 🌱 I’m currently learning **Next.js... 📱**
+- 🌱 I’m currently learning **React Native... 📱**
 
-- 👨‍💻 All of my projects are available at [https://sproch.netlify.app/](https://sproch.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sproch.dev/](https://sproch.dev/)
 
-- 💬 Ask me about **HTML, CSS, JS, React 😍**
+- 💬 Ask me about **HTML, CSS, JS, TS, React, React Native, Vue 😍**
 
 - 📫 How to reach me **tomek.sproch@gmail.com ✉️**
 
