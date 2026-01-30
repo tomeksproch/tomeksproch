@@ -1,23 +1,23 @@
 <div align="center">
 
-  <h1>TOMASZ SPROCH</h1>
-  <h3>FRONTEND ENGINEER | UI/UX ENGINEERING</h3>
+  <h1 style="font-size: 3em; letter-spacing: 0.1em;">TOMASZ SPROCH</h1>
   
-  <p>
-    <b>BASED IN CYBERSPACE (NOWY TARG, PL)</b><br/>
-    <i>I build digital experiences that bleed quality.</i>
+  <p font-family="monospace">
+    <code>LAT: 49.47° N | LON: 20.03° E | STATUS: ONLINE</code>
   </p>
 
+  <h3>FRONTEND ENGINEER | REACT SPECIALIST</h3>
+  
   <br/>
 
   <a href="https://sproch.dev" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-SPROCH.DEV-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/WWW-SPROCH.DEV-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/tomasz-sproch-10a6b11a1/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:tomek.sproch@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
 </div>
@@ -27,51 +27,46 @@
 
 ### 01 / THE MANIFESTO
 
-> "Passionate Frontend Developer utilizing strict engineering principles with an experimental design ethos. Pragmatic problem-solver focused on delivering clean, maintainable code and exceptional user experiences."
+> *“I don't just write code; I architect resilient frontend solutions. My approach combines rigorous engineering principles with an experimental design ethos, resulting in web applications that bleed quality.”*
 
 <br/>
 
-### 02 / ARSENAL (TECH STACK)
+### 02 / ARSENAL
 
-**CORE & FRAMEWORKS**
+`CORE & FRAMEWORKS`
 <br/>
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/REACT_18-000000?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/NEXT.JS_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/ASTRO-000000?style=flat-square&logo=astro&logoColor=white" /> <img src="https://img.shields.io/badge/VUE.JS-000000?style=flat-square&logo=vuedotjs&logoColor=white" />
 
-**STYLING & CREATIVE**
+`STYLING & CREATIVE`
 <br/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer_Motion-000000?style=flat-square&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/Three.js_(WebGL)-000000?style=flat-square&logo=three.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TAILWIND_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/FRAMER_MOTION-000000?style=flat-square&logo=framer&logoColor=white" /> <img src="https://img.shields.io/badge/WEBGL_/_THREE.JS-000000?style=flat-square&logo=three.js&logoColor=white" />
 
-**TOOLS & ARCHITECTURE**
+`TOOLS & ARCHITECTURE`
 <br/>
-<img src="https://img.shields.io/badge/Redux-000000?style=flat-square&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-000000?style=flat-square&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/REDUX_/_ZUSTAND-000000?style=flat-square&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/GRAPHQL-000000?style=flat-square&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/GIT_/_GITHUB-000000?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/FIGMA-000000?style=flat-square&logo=figma&logoColor=white" />
 
 <br/>
 
 ### 03 / EXPERIENCE
 
-* **TESSERAKT** | Frontend Developer (2024 - Present)
-    * *Stack: Astro, React, Vue, TypeScript*
-* **AGH UNIVERSITY** | Frontend Developer (2023 - Present)
-    * *Stack: Astro, React, Vue, TypeScript*
+**TESSERAKT** | *Frontend Developer* `2024 - Present`
+> Developed custom dashboard system using Astro & React. Integrated REST APIs with TypeScript ensuring type safety.
+
+**AGH UNIVERSITY** | *Frontend Developer* `2023 - Present`
+> Rebuilt the Faculty Website to meet WCAG 2.1 standards. Created "Mentoring IT" platform logic (React/TS).
 
 <br/>
 <br/>
 
 <div align="center">
-  <h3>GITHUB STATS</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=tomeksproch&show_icons=true&theme=graywhite&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff" alt="tomeksproch stats" />
+  <h3>GITHUB DATA</h3>
+  <a href="https://github.com/tomeksproch">
+  <img src="https://github-readme-stats.vercel.app/api?username=tomeksproch&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=000000" alt="tomeksproch stats" />
+  </a>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomeksproch&theme=graywhite&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="streak stats" />
+  <a href="https://github.com/tomeksproch">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomeksproch&theme=transparent&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000&sideNums=333333&dates=333333" alt="streak stats" />
+  </a>
 </div>
 
 <br/>
@@ -79,4 +74,5 @@
 
 <div align="center">
   <h2>LET'S BUILD SOMETHING WICKED.</h2>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
 </div>
