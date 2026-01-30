@@ -1,6 +1,5 @@
 <div align="center">
-
-  <h1 style="font-size: 3em; letter-spacing: 0.1em;">TOMASZ SPROCH</h1>
+  <h1 style="border-bottom: none;">TOMASZ SPROCH</h1>
   
   <p font-family="monospace">
     <code>LAT: 49.47° N | LON: 20.03° E | STATUS: ONLINE</code>
@@ -37,9 +36,9 @@
 <br/>
 <img src="https://img.shields.io/badge/REACT_18-000000?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/NEXT.JS_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/ASTRO-000000?style=flat-square&logo=astro&logoColor=white" /> <img src="https://img.shields.io/badge/VUE.JS-000000?style=flat-square&logo=vuedotjs&logoColor=white" />
 
-`STYLING & CREATIVE`
+`STYLING`
 <br/>
-<img src="https://img.shields.io/badge/TAILWIND_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/FRAMER_MOTION-000000?style=flat-square&logo=framer&logoColor=white" /> <img src="https://img.shields.io/badge/WEBGL_/_THREE.JS-000000?style=flat-square&logo=three.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TAILWIND_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" />
 
 `TOOLS & ARCHITECTURE`
 <br/>
@@ -59,14 +58,8 @@
 <br/>
 
 <div align="center">
-  <h3>GITHUB DATA</h3>
-  <a href="https://github.com/tomeksproch">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomeksproch&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=000000" alt="tomeksproch stats" />
-  </a>
-  <br/>
-  <a href="https://github.com/tomeksproch">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tomeksproch&theme=transparent&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000&sideNums=333333&dates=333333" alt="streak stats" />
-  </a>
+  <h3>SYSTEM METRICS</h3>
+  <img src="https://metrics.lecoq.io/tomeksproch?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.threshold=0%&languages.other=1&languages.colors=github&languages.sections=most-used&config.timezone=Europe%2FWarsaw" alt="Metrics" width="100%">
 </div>
 
 <br/>
