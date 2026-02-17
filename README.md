@@ -1,12 +1,14 @@
 <div align="center">
-  <h1 style="border-bottom: none;">TOMASZ SPROCH</h1>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=TOMASZ%20SPROCH&fontSize=60&fontColor=E9E8E4&fontAlign=50&fontAlignY=40&animation=fadeIn" width="100%" />
+
   <p font-family="monospace">
     <code>LAT: 49.47° N | LON: 20.03° E | STATUS: ONLINE</code>
   </p>
 
-  <h3>FRONTEND ENGINEER | REACT SPECIALIST</h3>
-  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=26&duration=3000&pause=1000&color=000000&background=E9E8E400&center=true&vCenter=true&width=500&lines=FRONTEND+ENGINEER;REACT+%26+NEXT.JS+SPECIALIST;PIXEL+PERFECTIONIST;BUILDING+WICKED+THINGS" alt="Typing SVG" />
+  </a>
+
   <br/>
 
   <a href="https://sproch.dev" target="_blank">
@@ -18,7 +20,6 @@
   <a href="mailto:tomek.sproch@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-CONTACT-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
 </div>
 
 <br/>
@@ -32,17 +33,11 @@
 
 ### 02 / ARSENAL
 
-`CORE & FRAMEWORKS`
-<br/>
-<img src="https://img.shields.io/badge/REACT_18-000000?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/NEXT.JS_14-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/ASTRO-000000?style=flat-square&logo=astro&logoColor=white" /> <img src="https://img.shields.io/badge/VUE.JS-000000?style=flat-square&logo=vuedotjs&logoColor=white" />
-
-`STYLING`
-<br/>
-<img src="https://img.shields.io/badge/TAILWIND_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" />
-
-`TOOLS & ARCHITECTURE`
-<br/>
-<img src="https://img.shields.io/badge/REDUX_/_ZUSTAND-000000?style=flat-square&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/GRAPHQL-000000?style=flat-square&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/GIT_/_GITHUB-000000?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/FIGMA-000000?style=flat-square&logo=figma&logoColor=white" />
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,astro,vue,tailwind,css,redux,graphql,git,figma,linux&theme=light&perline=6" />
+  </a>
+</div>
 
 <br/>
 
