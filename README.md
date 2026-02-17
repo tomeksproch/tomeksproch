@@ -58,8 +58,13 @@
 <br/>
 
 <div align="center">
-  <h3>SYSTEM METRICS</h3>
-  <img src="https://metrics.lecoq.io/tomeksproch?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.threshold=0%&languages.other=1&languages.colors=github&languages.sections=most-used&config.timezone=Europe%2FWarsaw" alt="Metrics" width="100%">
+  <br/>
+  <a href="https://github.com/tomeksproch">
+    <img src="https://github-readme-stats.vercel.app/api?username=tomeksproch&show_icons=true&hide_border=true&bg_color=E9E8E4&title_color=000000&text_color=111111&icon_color=000000&hide_rank=false" height="180" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/tomeksproch">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomeksproch&layout=compact&hide_border=true&bg_color=E9E8E4&title_color=000000&text_color=111111&icon_color=000000&langs_count=8" height="180" alt="Top Languages" />
+  </a>
 </div>
 
 <br/>
